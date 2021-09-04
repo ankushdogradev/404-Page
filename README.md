@@ -26,14 +26,14 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
-## Overview
+## Screenshots
 
 ### Desktop View
 ![Desktop-404](https://user-images.githubusercontent.com/75878788/132096078-7553b8b8-650c-4257-982d-3c65a198030e.png)
